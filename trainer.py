@@ -161,7 +161,6 @@ def main():
 
     dataset_split = {
         'qy': {'train': list(range(1, 7)), 'val': [7]},
-        'twj': {'train': list(range(1, 8)), 'val': [8]},
         'lby': {'train': list(range(1, 7)), 'val': [7]},
         'xyf': {'train': list(range(1, 7)), 'val': [7]},
         'yqj': {'train': list(range(1, 7)), 'val': [7]},
@@ -172,7 +171,6 @@ def main():
         'ky': {'train': list(range(1, 7)), 'val': [7]},
         'oygw': {'train': list(range(1, 7)), 'val': [7]},
         'wzj': {'train': [1, 2, 3, 4, 5, 7], 'val': [8]},
-        'mch': {'train': [1, 2, 3, 4, 6], 'val': [7]},
         'zch': {'train': [1, 2, 3, 4, 6], 'val': [7]},
         'wyc': {'train': list(range(1, 6)), 'val': [7]},
         'jwq': {'train': list(range(1, 7)), 'val': [7]},
