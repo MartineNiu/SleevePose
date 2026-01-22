@@ -51,16 +51,6 @@ To test the model, run:
 python test.py
 ```
 
-## Citation
-If you use this code or dataset in your research, please cite our paper:
-```
-@article{SleevePose2026,
-  title={SleevePose: Wearable System for Continuous 3D Hand Pose Estimation},
-  author={Your Name},
-  journal={Your Journal},
-  year={2026}
-}
-```
 
 ---
 Thank you for your interest in SleevePose!
